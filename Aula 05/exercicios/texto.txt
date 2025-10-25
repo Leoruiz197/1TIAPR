@@ -1,0 +1,5 @@
+esse é um arquivo de teste 
+para contar quantas 
+teste
+palavras temos nele
+basta chamar o teste
