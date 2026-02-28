@@ -1,0 +1,32 @@
+{
+  "pessoas": [
+    {
+      "nome": "Jo\u00e3o",
+      "idade": 30,
+      "profissao": "Engenheiro",
+      "cidade": "S\u00e3o Paulo",
+      "pais": "Brasil"
+    },
+    {
+      "nome": "Maria",
+      "idade": 25,
+      "profissao": "M\u00e9dica",
+      "cidade": "Lisboa",
+      "pais": "Portugal"
+    },
+    {
+      "nome": "Carlos",
+      "idade": 40,
+      "profissao": "Professor",
+      "cidade": "Madrid",
+      "pais": "Espanha"
+    },
+    {
+      "nome": "Ana",
+      "idade": 35,
+      "profissao": "Arquiteta",
+      "cidade": "Paris",
+      "pais": "Fran\u00e7a"
+    }
+  ]
+}

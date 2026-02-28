@@ -1,0 +1,22 @@
+{
+    "livros": [
+        {
+            "titulo": "Livro A",
+            "autor": "Autor A",
+            "ano": 2020,
+            "preco": 39.90
+        },
+        {
+            "titulo": "Livro B",
+            "autor": "Autor B",
+            "ano": 2018,
+            "preco": 29.90
+        },
+        {
+            "titulo": "Livro C",
+            "autor": "Autor C",
+            "ano": 2015,
+            "preco": 19.90
+        }
+    ]
+}

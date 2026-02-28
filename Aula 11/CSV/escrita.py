@@ -14,7 +14,7 @@ dados = [
 ]
 
 # Escrevendo no arquivo CSV
-with open(caminho_arquivo, mode='w', newline='',encoding='utf-8') as arquivo_csv:
+with open(caminho_arquivo, mode='w', newline='', encoding='utf-8') as arquivo_csv:
     escritor_csv = csv.writer(arquivo_csv)
     
     # Iterando sobre os dados e escrevendo no arquivo
